@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\libowned_ttf_parser-b725cec3dc2e970d.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\libowned_ttf_parser-b725cec3dc2e970d.rlib: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\owned_ttf_parser-b725cec3dc2e970d.d: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\convert.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\owned.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.19.0\src\preparse.rs:

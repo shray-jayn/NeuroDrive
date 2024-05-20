@@ -1,0 +1,11 @@
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\libbevy_audio-23693b4e92918fe3.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_output.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_source.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\sinks.rs
+
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\libbevy_audio-23693b4e92918fe3.rlib: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_output.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_source.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\sinks.rs
+
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\bevy_audio-23693b4e92918fe3.d: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_output.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_source.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\sinks.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_output.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\audio_source.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_audio-0.10.1\src\sinks.rs:

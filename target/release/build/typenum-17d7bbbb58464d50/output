@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\build\typenum-17d7bbbb58464d50\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\build\typenum-17d7bbbb58464d50\out\op.rs

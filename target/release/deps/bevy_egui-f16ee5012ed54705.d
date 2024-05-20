@@ -1,0 +1,11 @@
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\libbevy_egui-f16ee5012ed54705.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\render_systems.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\systems.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui_node.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui.wgsl
+
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\libbevy_egui-f16ee5012ed54705.rlib: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\render_systems.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\systems.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui_node.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui.wgsl
+
+C:\Users\HP\Downloads\rust-drive-ai-main\rust-drive-ai-main\target\release\deps\bevy_egui-f16ee5012ed54705.d: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\render_systems.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\systems.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui_node.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui.wgsl
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\render_systems.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\systems.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui_node.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_egui-0.20.3\src\egui.wgsl:
